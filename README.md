@@ -24,11 +24,12 @@ This project aims to analyze the Bollywood movie industry using the provided dat
 
 ## Repository Structure
 
-- `Bollywood_Movie_Analysis.ipynb`: Jupyter Notebook containing the analysis and preprocessing steps.
-- `bollywood_actor_ranking.csv`: Dataset containing rankings of Bollywood actors.
-- `bollywood_director_ranking.csv`: Dataset containing rankings of Bollywood directors.
-- `movie_ranking.csv`: Dataset containing details of Bollywood movies.
+- `BollywoodActorRanking.csv`: Dataset containing rankings of Bollywood actors.
+- `BollywoodDirectorRanking.csv`: Dataset containing rankings of Bollywood directors.
+- `BollywoodMovieDetail.csv`: Dataset containing details of Bollywood movies.
 - `README.md`: Readme file providing an overview of the project.
+- `data_preprocessing.ipynb`: Jupyter Notebook containing data preprocessing steps.
+- `project.sql`: SQL file containing queries used for data analysis.
 
 ## Tools Used
 
