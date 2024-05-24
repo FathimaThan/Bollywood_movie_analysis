@@ -31,6 +31,23 @@ This project aims to analyze the Bollywood movie industry using the provided dat
 - `data_preprocessing.ipynb`: Jupyter Notebook containing data preprocessing steps.
 - `project.sql`: SQL file containing queries used for data analysis.
 
+## Steps Followed
+
+1. **Data Preprocessing in Jupyter Notebook**: 
+   - Preprocessed the dataset in a Jupyter Notebook using Python, which involved cleaning the data and handling null values.
+
+2. **Cleaning Null Values**:
+   - Identified and cleaned null values from the dataset to ensure data integrity.
+
+3. **Date Column Corrections in Excel**:
+   - Made corrections to the date column in Microsoft Excel to ensure proper formatting for SQL queries, as SQL can have issues reading certain date formats. 
+
+4. **Dataset Saving**:
+   - Saved the preprocessed dataset for further analysis.
+
+5. **Querying the Datasets**:
+   - Utilized the preprocessed datasets to write SQL queries for analysis and extracting insights.
+
 ## Tools Used
 
 - Python (Pandas, Matplotlib)
