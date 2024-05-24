@@ -8,7 +8,7 @@ This project explores three datasets related to the Bollywood film industry:
 
 2. **[Bollywood Director Ranking Dataset](https://github.com/FathimaThan/Bollywood_movie_analysis/blob/main/BollywoodDirectorRanking.csv)**: This dataset provides rankings of Bollywood directors, including metrics such as movie count, normalized movie rank, normalized Google rank, and normalized rating.
 
-3. **[Movie Ranking Dataset](https://github.com/FathimaThan/Bollywood_movie_analysis/blob/main/BollywoodMovieRanking.csv)**: This dataset comprises details about Bollywood movies released between 2001 to 2014. It includes information such as movie title, release year, release date, genre, writers, actors, directors, sequel status, hit/flop rating, and lead actors.
+3. **[Movie Ranking Dataset](https://github.com/FathimaThan/Bollywood_movie_analysis/blob/main/BollywoodMovieDetail.csv)**: This dataset comprises details about Bollywood movies released between 2001 to 2014. It includes information such as movie title, release year, release date, genre, writers, actors, directors, sequel status, hit/flop rating, and lead actors.
 
 The datasets were obtained from Kaggle, a platform for data science and machine learning competitions, datasets, and notebooks.
 
