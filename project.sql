@@ -12,7 +12,7 @@ CREATE TABLE actor (
     normalizedRating INT
 );
 
-LOAD DATA INFILE "C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/actor.csv"
+LOAD DATA INFILE "actor.csv"
 INTO TABLE actor
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
@@ -29,7 +29,7 @@ CREATE TABLE director (
     normalizedRating INT
 );
 
-LOAD DATA INFILE "C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/director.csv"
+LOAD DATA INFILE "director.csv"
 INTO TABLE director
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
@@ -50,7 +50,7 @@ CREATE TABLE movie (
     second_lead_actor VARCHAR(100)
 );
 
-LOAD DATA INFILE "C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/movie.csv"
+LOAD DATA INFILE "movie.csv"
 INTO TABLE movie
 FIELDS TERMINATED BY ','
 LINES TERMINATED BY '\n'
