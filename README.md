@@ -29,6 +29,9 @@ This project aims to analyze the Bollywood movie industry using the provided dat
 - `BollywoodMovieDetail.csv`: Dataset containing details of Bollywood movies.
 - `README.md`: Readme file providing an overview of the project.
 - `data_preprocessing.ipynb`: Jupyter Notebook containing data preprocessing steps.
+- `actor.csv`: preprocessed BollywoodActorRanking dataset
+- `director.csv`: preprocessed BollywoodDirectorRanking dataset
+- `movie.csv`: preprocessed BollywoodMovieDetail dataset
 - `project.sql`: SQL file containing queries used for data analysis.
 
 ## Steps Followed
